@@ -1,2 +1,2 @@
 # hello-world
-Primer repositorio
+Estoy haciendo esto solo para entender mejor como funciona git-hub.
